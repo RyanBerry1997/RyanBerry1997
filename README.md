@@ -34,44 +34,44 @@
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - **Description:** Analyzed stock trends using moving averages, daily returns, and volatility, creating actionable insights with visualizations.
-   - **Skills Used:** Python, Pandas, NumPy, Matplotlib, Financial Metrics.
-   - **Highlights:** Provided detailed documentation and effective visualizations for clear communication of insights.
+   - Description: Analyzed stock trends using moving averages, daily returns, and volatility, creating actionable insights with visualizations.
+   - Skills Used: Python, Pandas, NumPy, Matplotlib, Financial Metrics.
+   - Highlights: Provided detailed documentation and effective visualizations for clear communication of insights.
 
 2. **Pricing Bonds and Yield Analysis**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - **Description:** Developed calculations for bond prices, duration, and convexity to assess interest rate risk.
-   - **Skills Used:** Financial Calculations, NumPy, Pandas, Visualizations.
-   - **Highlights:** Created comprehensive analyses of bond price sensitivities.
+   - Description: Developed calculations for bond prices, duration, and convexity to assess interest rate risk.
+   - Skills Used: Financial Calculations, NumPy, Pandas, Visualizations.
+   - Highlights: Created comprehensive analyses of bond price sensitivities.
 
 3. **Portfolio Optimization Using the Markowitz Model**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - **Description:** Applied Modern Portfolio Theory to optimize portfolios along the efficient frontier.
-   - **Skills Used:** Financial Theory, Matrix Operations, NumPy, SciPy, Matplotlib.
-   - **Highlights:** Generated efficient frontier visualizations to guide investment decisions.
+   - Description: Applied Modern Portfolio Theory to optimize portfolios along the efficient frontier.
+   -Skills Used: Financial Theory, Matrix Operations, NumPy, SciPy, Matplotlib.
+   - Highlights: Generated efficient frontier visualizations to guide investment decisions.
 
 4. **Option Pricing Using the Black-Scholes Model**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - **Description:** Implemented Black-Scholes formula for European options and analyzed sensitivities via Greeks.
-   - **Skills Used:** Financial Theory, Probability, SciPy, Matplotlib.
-   - **Highlights:** Produced 3D plots showcasing option price sensitivity.
+   - Description: Implemented Black-Scholes formula for European options and analyzed sensitivities via Greeks.
+   - Skills Used: Financial Theory, Probability, SciPy, Matplotlib.
+   - Highlights: Produced 3D plots showcasing option price sensitivity.
 
 ---
 
 ### 💼 Experience
-- **Registration Administrator**  
-  *Canterbury Christ Church University* | 09/2024 – 02/2025  
+- **Registration Administrator**
+    *Canterbury Christ Church University* | 09/2024 – 02/2025  
   - Processed sensitive student documents with attention to detail and teamwork.
   - Supported non-native English speakers with registration processes.
 
 - **Software Engineering Project**  
-  *University of Kent* | 09/2019 – 05/2020  
+   *University of Kent* | 09/2019 – 05/2020  
   - Developed a Java-based application to manage HR data points in a database.
   - Strengthened problem-solving and creativity by delivering innovative coding solutions.
 
