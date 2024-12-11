@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Berry</h1>
-<h3 align="center">Aspiring Data Analyst with expertise in Python, SQL, Power BI, and Tableau!</h3>
+<h3 align="center">Graduate in Computer Science and Fintech | Passionate About Data, Finance, and Programming</h3>
 
 <p align="center">
   <img src="https://your-image-link-here" alt="Banner Image" style="width:80%;">
@@ -8,61 +8,76 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I graduated with a **First-Class Honours in Computer Science** and received a **Merit in my Master's in Fintech**.
-- 📊 I’m passionate about transforming complex data into actionable insights and creating meaningful visualizations that tell a story. I believe in the power of data to drive impactful business decisions, and I’m always eager to learn new technologies that enhance my analytical abilities.
-- 💼 Currently seeking an **Analyst role** where I can leverage my skills in **Python, SQL, Excel, Power BI, and Tableau**.
+- 🎓 **Education:** 
+  - First-Class Honours in **Computer Science** (University of Kent)
+  - **Master’s in Fintech** with Merit (University of Kent)
+- 🌐 **Passions:** Bridging the gap between technology and finance through innovative programming and data analysis.
+- 📊 **Career Goals:** Seeking a role in data analytics, quantitative finance, or programming where I can further develop and apply my expertise in Python, SQL, and financial modeling.
+- 🌊 **Current Learning:** Deepening my knowledge of **quantitative finance** and **algorithmic trading**, along with completing a **SQL refresher course** to stay workplace-ready.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-264653?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scipy-8A2BE2?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
 ---
 
 ### 🔍 Featured Projects
-1. **Data Analysis with Python and Pandas**  
+1. **Analyzing Stock Price Trends with Moving Averages**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - 🔹 **Description:** Performed in-depth data analysis on a dataset using **Python** with NumPy and Pandas.
-   - 🔹 **Skills Used:** Python, Pandas, Data Cleaning, Data Visualization.
-   - 🔹 **Highlights:** Gained insights into [specific industry or problem], created actionable visualizations, and presented findings.
+   - **Description:** Analyzed stock trends using moving averages, daily returns, and volatility, creating actionable insights with visualizations.
+   - **Skills Used:** Python, Pandas, NumPy, Matplotlib, Financial Metrics.
+   - **Highlights:** Provided detailed documentation and effective visualizations for clear communication of insights.
 
-2. **Financial Dashboard with Power BI**  
+2. **Pricing Bonds and Yield Analysis**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - 🔹 **Description:** Built an interactive dashboard for [industry or project specifics].
-   - 🔹 **Skills Used:** Power BI, Data Visualization, Financial Analysis.
-   - 🔹 **Highlights:** Enabled stakeholders to make real-time, data-driven decisions.
+   - **Description:** Developed calculations for bond prices, duration, and convexity to assess interest rate risk.
+   - **Skills Used:** Financial Calculations, NumPy, Pandas, Visualizations.
+   - **Highlights:** Created comprehensive analyses of bond price sensitivities.
 
-3. **SQL Data Analysis for Business Intelligence**  
+3. **Portfolio Optimization Using the Markowitz Model**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - 🔹 **Description:** Developed complex SQL queries to extract, transform, and analyze data for [industry or company].
-   - 🔹 **Skills Used:** SQL, Data Analysis, Business Intelligence.
-   - 🔹 **Highlights:** Improved efficiency by creating reusable queries and optimizing database performance.
+   - **Description:** Applied Modern Portfolio Theory to optimize portfolios along the efficient frontier.
+   - **Skills Used:** Financial Theory, Matrix Operations, NumPy, SciPy, Matplotlib.
+   - **Highlights:** Generated efficient frontier visualizations to guide investment decisions.
 
-4. **Sales Forecasting with Excel**  
+4. **Option Pricing Using the Black-Scholes Model**
    <p>
       <img src="https://your-image-link-here" alt="Project Image" width="30%">
    </p>
-   - 🔹 **Description:** Developed a forecasting model in Excel to predict sales trends for [industry or company].
-   - 🔹 **Skills Used:** Excel, Data Modeling, Forecasting, Regression Analysis.
-   - 🔹 **Highlights:** Increased forecast accuracy by over 15%, allowing more strategic planning and resource allocation.
+   - **Description:** Implemented Black-Scholes formula for European options and analyzed sensitivities via Greeks.
+   - **Skills Used:** Financial Theory, Probability, SciPy, Matplotlib.
+   - **Highlights:** Produced 3D plots showcasing option price sensitivity.
 
 ---
 
-### 📫 Connect with Me
+### 💼 Experience
+- **Registration Administrator**  
+  *Canterbury Christ Church University* | 09/2024 – 02/2025  
+  - Processed sensitive student documents with attention to detail and teamwork.
+  - Supported non-native English speakers with registration processes.
+
+- **Software Engineering Project**  
+  *University of Kent* | 09/2019 – 05/2020  
+  - Developed a Java-based application to manage HR data points in a database.
+  - Strengthened problem-solving and creativity by delivering innovative coding solutions.
+
+---
+
+### 📞 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-berry-228527249" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
